@@ -1,0 +1,88 @@
+C:\Users\GLS\Desktop\OOP VİZE HAZIRLIK\Tenis\Tenis\bin\Debug\Tenis.exe.config
+C:\Users\GLS\Desktop\OOP VİZE HAZIRLIK\Tenis\Tenis\bin\Debug\Tenis.exe
+C:\Users\GLS\Desktop\OOP VİZE HAZIRLIK\Tenis\Tenis\bin\Debug\Tenis.pdb
+C:\Users\GLS\Desktop\OOP VİZE HAZIRLIK\Tenis\Tenis\obj\Debug\Tenis.csprojResolveAssemblyReference.cache
+C:\Users\GLS\Desktop\OOP VİZE HAZIRLIK\Tenis\Tenis\obj\Debug\Tenis.Form1.resources
+C:\Users\GLS\Desktop\OOP VİZE HAZIRLIK\Tenis\Tenis\obj\Debug\Tenis.Properties.Resources.resources
+C:\Users\GLS\Desktop\OOP VİZE HAZIRLIK\Tenis\Tenis\obj\Debug\Tenis.csproj.GenerateResource.Cache
+C:\Users\GLS\Desktop\OOP VİZE HAZIRLIK\Tenis\Tenis\obj\Debug\Tenis.exe
+C:\Users\GLS\Desktop\OOP VİZE HAZIRLIK\Tenis\Tenis\obj\Debug\Tenis.pdb
+C:\Users\GLS\Desktop\OOP VİZE HAZIRLIK\Tenis\Tenis\obj\Debug\Tenis.Y_Skor.resources
+C:\Users\GLS\Desktop\OOP VİZE HAZIRLIK\Tenis\Tenis\obj\Debug\Tenis.Yuksek Skor.resources
+C:\Users\GLS\Desktop\OOP VİZE HAZIRLIK\Tenis\Tenis\obj\Debug\Tenis.YuksekSkorlariGoster.resources
+C:\Users\GLS\Desktop\OOP lesson\Tenis\Tenis\bin\Debug\Tenis.exe.config
+C:\Users\GLS\Desktop\OOP lesson\Tenis\Tenis\obj\Debug\Tenis.exe
+C:\Users\GLS\Desktop\OOP lesson\Tenis\Tenis\obj\Debug\Tenis.pdb
+C:\Users\GLS\Desktop\OOP lesson\Tenis\Tenis\bin\Debug\Tenis.exe
+C:\Users\GLS\Desktop\OOP lesson\Tenis\Tenis\bin\Debug\Tenis.pdb
+C:\Users\GLS\Desktop\OOP lesson\Tenis\Tenis\obj\Debug\Tenis.csprojResolveAssemblyReference.cache
+C:\Users\GLS\Desktop\OOP lesson\Tenis\Tenis\obj\Debug\Tenis.Form1.resources
+C:\Users\GLS\Desktop\OOP lesson\Tenis\Tenis\obj\Debug\Tenis.Properties.Resources.resources
+C:\Users\GLS\Desktop\OOP lesson\Tenis\Tenis\obj\Debug\Tenis.Yuksek Skor.resources
+C:\Users\GLS\Desktop\OOP lesson\Tenis\Tenis\obj\Debug\Tenis.YuksekSkorlariGoster.resources
+C:\Users\GLS\Desktop\OOP lesson\Tenis\Tenis\obj\Debug\Tenis.Y_Skor.resources
+C:\Users\GLS\Desktop\OOP lesson\Tenis\Tenis\obj\Debug\Tenis.csproj.GenerateResource.Cache
+G:\Tenis\Tenis\bin\Debug\Tenis.exe.config
+G:\Tenis\Tenis\obj\Debug\Tenis.exe
+G:\Tenis\Tenis\obj\Debug\Tenis.pdb
+C:\Users\user\Desktop\Tenis\Tenis\bin\Debug\Tenis.exe.config
+C:\Users\user\Desktop\Tenis\Tenis\obj\Debug\Tenis.exe
+C:\Users\user\Desktop\Tenis\Tenis\obj\Debug\Tenis.pdb
+C:\Users\user\Desktop\Tenis\Tenis\bin\Debug\Tenis.exe
+C:\Users\user\Desktop\Tenis\Tenis\bin\Debug\Tenis.pdb
+C:\Users\user\Desktop\Tenis\Tenis\obj\Debug\Tenis.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Tenis\Tenis\obj\Debug\Tenis.Form1.resources
+C:\Users\user\Desktop\Tenis\Tenis\obj\Debug\Tenis.Properties.Resources.resources
+C:\Users\user\Desktop\Tenis\Tenis\obj\Debug\Tenis.Yuksek Skor.resources
+C:\Users\user\Desktop\Tenis\Tenis\obj\Debug\Tenis.YuksekSkorlariGoster.resources
+C:\Users\user\Desktop\Tenis\Tenis\obj\Debug\Tenis.Y_Skor.resources
+C:\Users\user\Desktop\Tenis\Tenis\obj\Debug\Tenis.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\oyun\Tenis\bin\Debug\Tenis.exe.config
+C:\Users\user\Desktop\oyun\Tenis\obj\Debug\Tenis.exe
+C:\Users\user\Desktop\oyun\Tenis\obj\Debug\Tenis.pdb
+C:\Users\user\Desktop\oyun\Tenis\bin\Debug\Tenis.exe
+C:\Users\user\Desktop\oyun\Tenis\bin\Debug\Tenis.pdb
+C:\Users\user\Desktop\oyun\Tenis\obj\Debug\Tenis.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\oyun\Tenis\obj\Debug\Tenis.Form1.resources
+C:\Users\user\Desktop\oyun\Tenis\obj\Debug\Tenis.Properties.Resources.resources
+C:\Users\user\Desktop\oyun\Tenis\obj\Debug\Tenis.Yuksek Skor.resources
+C:\Users\user\Desktop\oyun\Tenis\obj\Debug\Tenis.YuksekSkorlariGoster.resources
+C:\Users\user\Desktop\oyun\Tenis\obj\Debug\Tenis.Y_Skor.resources
+C:\Users\user\Desktop\oyun\Tenis\obj\Debug\Tenis.csproj.GenerateResource.Cache
+G:\OLD\Desktop\Новая папка\oyun\Tenis\bin\Debug\Tenis.exe.config
+G:\OLD\Desktop\Новая папка\oyun\Tenis\bin\Debug\Tenis.exe
+G:\OLD\Desktop\Новая папка\oyun\Tenis\bin\Debug\Tenis.pdb
+G:\OLD\Desktop\Новая папка\oyun\Tenis\obj\Debug\Tenis.csprojResolveAssemblyReference.cache
+G:\OLD\Desktop\Новая папка\oyun\Tenis\obj\Debug\Tenis.Form1.resources
+G:\OLD\Desktop\Новая папка\oyun\Tenis\obj\Debug\Tenis.Properties.Resources.resources
+G:\OLD\Desktop\Новая папка\oyun\Tenis\obj\Debug\Tenis.Yuksek Skor.resources
+G:\OLD\Desktop\Новая папка\oyun\Tenis\obj\Debug\Tenis.YuksekSkorlariGoster.resources
+G:\OLD\Desktop\Новая папка\oyun\Tenis\obj\Debug\Tenis.Y_Skor.resources
+G:\OLD\Desktop\Новая папка\oyun\Tenis\obj\Debug\Tenis.csproj.GenerateResource.Cache
+G:\OLD\Desktop\Новая папка\oyun\Tenis\obj\Debug\Tenis.exe
+G:\OLD\Desktop\Новая папка\oyun\Tenis\obj\Debug\Tenis.pdb
+G:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\bin\Debug\Tenis.exe.config
+G:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\bin\Debug\Tenis.exe
+G:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\bin\Debug\Tenis.pdb
+G:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.csprojResolveAssemblyReference.cache
+G:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.Form1.resources
+G:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.Properties.Resources.resources
+G:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.Yuksek Skor.resources
+G:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.YuksekSkorlariGoster.resources
+G:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.Y_Skor.resources
+G:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.csproj.GenerateResource.Cache
+G:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.exe
+G:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.pdb
+F:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\bin\Debug\Tenis.exe.config
+F:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\bin\Debug\Tenis.exe
+F:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\bin\Debug\Tenis.pdb
+F:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.csprojAssemblyReference.cache
+F:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.Form1.resources
+F:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.Properties.Resources.resources
+F:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.Yuksek Skor.resources
+F:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.YuksekSkorlariGoster.resources
+F:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.Y_Skor.resources
+F:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.csproj.GenerateResource.cache
+F:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.csproj.CoreCompileInputs.cache
+F:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.exe
+F:\University\2015-2016\2.Dönem\NDP\Odevler(2015-2016)\OdevProje\oyun\Tenis\obj\Debug\Tenis.pdb
